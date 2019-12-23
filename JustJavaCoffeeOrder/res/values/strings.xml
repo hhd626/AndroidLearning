@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="textquantity">quantity</string>
+    <string name="order">order</string>
+    <string name="price1">$10</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="ordersummary">order summary</string>
+    <string name="number">2</string>
+</resources>
